@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Student Activity Compilation</title>
+</head>
+
+<body style="background-color:#FAF9F6; font-family:Arial,sans-serif; color:#7A4A57; margin:0;">
+
+```
+<header style="background-color:#F5F0EB; padding:20px; text-align:center;">
+    <h2 style="font-family:Georgia,serif; color:#5A2635;">
+        Student Compilation
+    </h2>
+
+    <nav>
+        <a href="#home" style="color:#7A4A57; text-decoration:none; margin:10px; font-weight:bold;">Home</a>
+
+        <a href="#activities" style="color:#7A4A57; text-decoration:none; margin:10px; font-weight:bold;">Activities</a>
+
+        <a href="#about" style="color:#7A4A57; text-decoration:none; margin:10px; font-weight:bold;">About</a>
+    </nav>
+</header>
+
+<main>
+
+    <section id="home" style="text-align:center; padding:60px 20px;">
+
+        <p style="color:#C37871; font-size:14px;">
+            Welcome to my website!
+        </p>
+
+        <h1 style="font-family:Georgia,serif; color:#5A2635; font-size:40px;">
+            Student Activity Compilation
+        </h1>
+
+        <p style="color:#7A4A57; line-height:1.8;">
+            A collection of my projects in HTML & CSS
+        </p>
+
+        <a href="#activities" style="display:inline-block; background-color:#C37871; color:white; padding:12px 22px; margin-top:10px; text-decoration:none; border-radius:8px; font-weight:bold;">
+            Explore Activities
+        </a>
+
+    </section>
+
+    <section id="activities" style="background-color:#F5F0EB; padding:40px 20px; text-align:center;">
+
+        <h2 style="font-family:Georgia,serif; color:#5A2635;">
+            My Activities
+        </h2>
+
+        <p style="color:#7A4A57; margin-bottom:30px;">
+            Explore the projects I created throughout this course.
+        </p>
+
+        <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+
+            <article style="background-color:#FAF9F6; padding:25px; width:250px; border-radius:12px; text-align:left;">
+
+                <h3 style="font-family:Georgia,serif; color:#5A2635;">
+                    01. Personal Portfolio
+                </h3>
+
+                <p style="line-height:1.7;">
+                    Get to know me through my profile,
+                    education, skills, interests, and projects.
+                </p>
+
+                <p style="color:#C37871; font-size:13px;">
+                    Technologies: HTML and CSS
+                </p>
+
+                <a href="David, Jovonne - E-portfolio.html" style="display:inline-block; background-color:#C37871; color:white; padding:12px 22px; margin-top:10px; text-decoration:none; border-radius:8px; font-weight:bold;">
+                    View Project
+                </a>
+
+            </article>
+
+            <article style="background-color:#FAF9F6; padding:25px; width:250px; border-radius:12px; text-align:left;">
+
+                <h3 style="font-family:Georgia,serif; color:#5A2635;">
+                    02. Marketplace
+                </h3>
+
+                <p style="line-height:1.7;">
+                    Explore my marketplace website featuring
+                    the products, its features, and prices.
+                </p>
+
+                <p style="color:#C37871; font-size:13px;">
+                    Technologies: HTML and CSS
+                </p>
+
+                <a href="David, Jovonne - Module Activity 2.html" style="display:inline-block; background-color:#C37871; color:white; padding:12px 22px; margin-top:10px; text-decoration:none; border-radius:8px; font-weight:bold;">
+                    View Project
+                </a>
+
+            </article>
+
+            <article style="background-color:#FAF9F6; padding:25px; width:250px; border-radius:12px; text-align:left;">
+
+                <h3 style="font-family:Georgia,serif; color:#5A2635;">
+                    03. Marketing Campaign
+                </h3>
+
+                <p style="line-height:1.7;">
+                    Discover a marketing campaign designed
+                    for a specific target audience and purpose.
+                </p>
+
+                <p style="color:#C37871; font-size:13px;">
+                    Technologies: HTML and CSS
+                </p>
+
+                <a href="Jo Cosmetics Marketing Campaign.html" style="display:inline-block; background-color:#C37871; color:white; padding:12px 22px; margin-top:10px; text-decoration:none; border-radius:8px; font-weight:bold;">
+                    View Project
+                </a>
+
+            </article>
+
+        </div>
+    </section>
+
+    <section id="about" style="text-align:center; padding:40px 30px; line-height:1.8;">
+
+        <h2 style="font-family:Georgia,serif; color:#5A2635;">
+            About This Compilation
+        </h2>
+
+        <p>
+            This website presents my completed activities
+            and showcases what I have learned about HTML and CSS. 
+            Each project reflects my
+            creativity and developing web design skills.
+        </p>
+
+    </section>
+
+</main>
+
+<footer style="background-color:#5A2635; color:#FAF9F6; text-align:center; padding:20px; font-size:13px;">
+
+    <p>Student Name: Jovonne David</p>
+    <p>Course and Section: C-BIA100, ETY131</p>
+    <p>Academic Year: 2026-2027</p>
+    <p>&copy; 2026 Student Activity Compilation</p>
+
+</footer>
+
+
+</body>
+</html>
